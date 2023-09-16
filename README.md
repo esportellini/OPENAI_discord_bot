@@ -1,11 +1,18 @@
-# OPENAI discord bot
+# OPENAI Discord Bot
 
-Very simple discord bot that uses openai API integrated with discord, so users can ask anything as if they are using chat-gpt
+Very simple discord bot that uses openai API integrated with discord
 
+## Prerequisites
+- Node.js 10+
+- NPM
 
-# Install/Use
-
-- Install node.js
-- Install all node packages [ nmp install ]
+## Installation
+- Install dependencies
+```bash
+npm install
+```
 - Change all the Keys in the .env file;
-- Run the bot [ node ./index.js ]
+- Start Application
+```bash
+node ./index.js
+```
